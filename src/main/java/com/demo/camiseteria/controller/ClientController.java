@@ -1,6 +1,6 @@
 package com.demo.camiseteria.controller;
 
-import com.demo.camiseteria.entity.ClientEntity;
+import com.demo.camiseteria.model.entity.ClientEntity;
 import com.demo.camiseteria.service.ClientService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
