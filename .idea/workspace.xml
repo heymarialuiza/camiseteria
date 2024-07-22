@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc89cba4-ed6b-42ae-be1c-c4a04be9d139" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/model/entity/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/CamiseteriaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/CamiseteriaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/model/entity/ClientEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/model/record/ClientRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/model/record/ClientRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/repository/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/repository/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/camiseteria/CamiseteriaApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="camiseteria" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="camiseteria" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="camiseteria" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="camiseteria" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2i3TnMwKNl2XWgwnDKW5AR2ciRM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CamiseteriaApplication.executor": "Run",
+    "Gradle.Build camiseteria.executor": "Run",
+    "Gradle.CamiseteriaApplicationTests.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.camiseteria [:CamiseteriaApplication.main()].executor": "Run",
+    "Gradle.camiseteria [build].executor": "Run",
+    "Gradle.camiseteria [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "04072024",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.camiseteria.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CamiseteriaApplication">
+    <configuration name="CamiseteriaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.camiseteria.CamiseteriaApplication" />
+      <module name="camiseteria.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.camiseteria.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CamiseteriaApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.demo.camiseteria.CamiseteriaApplicationTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="camiseteria [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="camiseteria [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.camiseteria [build]" />
+        <item itemvalue="Gradle.camiseteria [clean]" />
+        <item itemvalue="Application.CamiseteriaApplication" />
+        <item itemvalue="Gradle.CamiseteriaApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc89cba4-ed6b-42ae-be1c-c4a04be9d139" name="Changes" comment="" />
+      <created>1718718429855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718718429855</updated>
+    </task>
+    <servers />
+  </component>
+</project>
