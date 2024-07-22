@@ -5,41 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc89cba4-ed6b-42ae-be1c-c4a04be9d139" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/model/entity/ClientEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/.eslintrc.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/vite-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/vite.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/CamiseteriaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/CamiseteriaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/controller/ClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/model/entity/ClientEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/model/record/ClientRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/model/record/ClientRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/repository/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/repository/ClientRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/camiseteria/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/demo/camiseteria/service/ClientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/camiseteria/CamiseteriaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,21 +85,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CamiseteriaApplication.executor": "Run",
-    "Gradle.Build camiseteria.executor": "Run",
-    "Gradle.CamiseteriaApplicationTests.executor": "Run",
-    "Gradle.Download Sources.executor": "Run",
-    "Gradle.camiseteria [:CamiseteriaApplication.main()].executor": "Run",
-    "Gradle.camiseteria [build].executor": "Run",
-    "Gradle.camiseteria [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "04072024",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CamiseteriaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build camiseteria.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CamiseteriaApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.camiseteria [:CamiseteriaApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.camiseteria [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.camiseteria [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;04072024&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.demo.camiseteria.entity" />
