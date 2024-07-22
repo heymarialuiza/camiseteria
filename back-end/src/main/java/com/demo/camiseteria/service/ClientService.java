@@ -21,7 +21,7 @@ public class ClientService {
         return repository.save(client);
     }
 
-    public ClientEntity update(ClientEntity client) {
-        return repository.
-    }
+//    public ClientEntity update(ClientEntity client) {
+//        return repository.
+//    }
 }
