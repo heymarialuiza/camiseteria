@@ -1,6 +1,6 @@
 package com.demo.camiseteria.model.record;
 
-public record ClientRecord(
+public record MembersRecord(
         Long id_client,
         String name,
         Long cpfCnpj,

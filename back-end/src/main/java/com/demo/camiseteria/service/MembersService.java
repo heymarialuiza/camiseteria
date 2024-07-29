@@ -1,23 +1,23 @@
 package com.demo.camiseteria.service;
 
-import com.demo.camiseteria.model.entity.ClientEntity;
-import com.demo.camiseteria.repository.ClientRepository;
+import com.demo.camiseteria.model.entity.MembersEntity;
+import com.demo.camiseteria.repository.MembersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
-public class ClientService {
+public class MembersService {
 
     @Autowired
-    private ClientRepository repository;
+    private MembersRepository repository;
 
-    public List<ClientEntity> listAll() {
+    public List<MembersEntity> listAll() {
         return repository.findAll();
     }
 
-    public ClientEntity register(ClientEntity client) {
+    public MembersEntity register(MembersEntity client) {
         return repository.save(client);
     }
 
